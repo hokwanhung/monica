@@ -27,6 +27,7 @@
 _ide_helper.php
 _ide_helper_models.php
 .env
+.cursor/
 .DS_Store
 .idea
 Homestead.json
